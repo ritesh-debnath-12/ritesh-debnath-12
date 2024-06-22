@@ -22,7 +22,6 @@ Thank you for checking out my profile! I am a novice developer with a passion fo
 
 ## 📊 GitHub Activity
 
-![Ritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritesh-debnath-12&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-debnath-12&layout=compact&theme=radical)
 
 ## 📫 How to reach me: 
