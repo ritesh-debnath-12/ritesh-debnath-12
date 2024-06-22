@@ -27,7 +27,7 @@ Thank you for checking out my profile! I am a novice developer with a passion fo
 ## 📫 How to reach me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-debnath)
   [![discord](https://img.shields.io/badge/contact-me-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/765874807698227210)
-  [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=red&color=white)](mailto:riteshdebnath@gmail.com)
+  [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=red&color=white)](mailto:riteshdebnath12@gmail.com)
   [![Twiiter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KrosKat23)
 <!--
 **ritesh-debnath-12/ritesh-debnath-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
