@@ -2,7 +2,7 @@
 
 🌟 **Godot and GDScript | Tailwind/React | Core PHP | Python | Foodie**
 
-Thank you for checking out my profile! I am a novice developer with a passion for building things that look cool while also have an amount of market value.
+Thank you for checking out my profile! I am a novice developer with a passion for building things that look cool!
 
 ## 😸 About Me
 ### 🔭 I’m currently working on:  
