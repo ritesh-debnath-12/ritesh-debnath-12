@@ -2,7 +2,7 @@
 
 🌟 **Godot and GDScript | Tailwind/React | Core PHP | Python | Foodie**
 
-Thank you for checking out my profile! I am a novice developer with a passion for building things that look cool!
+Thank you for checking out my profile! I am a novice developer {which is absolutely not true} with a passion for building things that look cool!
 
 ## 😸 About Me
 ### 🔭 I’m currently working on:  
@@ -14,8 +14,9 @@ Thank you for checking out my profile! I am a novice developer with a passion fo
                - Laravel
                - Inertia(to integrate Laravel and ReactJS, best of both worlds 😸)
                
-## ⚙ Them Skillz
-- **Languages:** Python, C, PHP, JS, Java(sort of)
+## ⚙ My Skills
+- **Personal skills:** Very good story teller, Akhand single, Excellent problem solver, Gamer boy, Japan obsessed.
+- **Languages:** Japanese, Python, C, PHP, JS, Java, Rust, C++, GD script.
 - **Frameworks:** Flask, Django, ReactJS, Laravel(WIP)
 - **Tools:** VSCode, Git(Version Control), VirtualBox
 - **Databases:** MySQL, JSON, XML, MongoDB, Redis(Caching Service; WIP)
